@@ -1,5 +1,5 @@
 # windowcopen
-Centerized javascript window.open
+Centerized javascript window.open since 2007.11.12
 
 windowcopen 함수는, 기존의 window.open 의 기능강화 함수입니다.
 새 창을 열때, 화면의 중앙에 열어줍니다.
