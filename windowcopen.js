@@ -4,6 +4,7 @@ WindowCOpen 1.0
 http://github.com/xozen/windowcopen
 
 */
+
 function windowcopen(url, title, options) {
 
     var option_nosize = ''
