@@ -12,7 +12,7 @@ function windowcopen(url, title, options) {
 
     for (i = 0; (i + 1) <= options_arr.length; i++) {
 
-        option = options_arr[i].trim()
+        option = options_arr[i].trim().replace(';', '')
         option_arr = option.split('=')
 
         var fld = option_arr[0]
